@@ -1,0 +1,44 @@
+--------------------
+ECOOCC CST
+--------------------
+f1score = 67% ±0%
+precision = 50% ±0%
+recall = 100% ±0%
+k = 2.9 ±0.3
+
+--------------------
+NAIVE BAYES CST
+--------------------
+f1score = 67% ±0%
+precision = 50% ±0%
+recall = 100% ±0%
+
+--------------------
+DCDISTANCE CST
+--------------------
+Best params = 
+t                 0.910000
+f1score_mean      0.666543
+f1score_std       0.000371
+precision_mean    0.499930
+precision_std     0.000209
+recall_mean       0.999722
+recall_std        0.000833
+Name: 18, dtype: float64
+
+--------------------
+OCC SVM CST
+--------------------
+Best params = 
+nu                       0.1
+kernel                   rbf
+gamma                    0.1
+degree                     3
+f1score_mean        0.638054
+f1score_std       0.00780179
+precision_mean      0.499161
+precision_std     0.00641804
+recall_mean         0.884167
+recall_std         0.0143829
+Name: 90, dtype: object
+

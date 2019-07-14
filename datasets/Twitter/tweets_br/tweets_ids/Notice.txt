@@ -1,0 +1,1 @@
+Twitter policy does not allow us to publish the content of tweets. Instead, we can publish the ids of the tweets we used. Tweets are grouped by topic.

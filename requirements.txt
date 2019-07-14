@@ -1,0 +1,2 @@
+dvipng  # sudo apt-get install dvipng
+libhunspell-dev  # sudo apt install libhunspell-dev

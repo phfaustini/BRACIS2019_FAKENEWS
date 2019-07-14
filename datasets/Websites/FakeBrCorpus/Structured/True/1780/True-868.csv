@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,swear_words,label
+0.05,0.0,0.0,0.0,30.8,0.01,0.01,0.19,0.04,107,0.8,4.0,892.0,0,-1.0

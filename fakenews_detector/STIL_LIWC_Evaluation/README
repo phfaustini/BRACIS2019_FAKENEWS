@@ -1,0 +1,19 @@
+Code produced for Liwc vocabulary evaluation
+
+Author: Pedro Paulo Balage Filho
+Version: 1.0
+Date: 05/12/12
+
+In order to reproduce my experiment you should have python 2.x and python NLTK libary installed.
+
+For copyright purpose I am not including the lexicon or corpora used in this evaluation. 
+I recommend you to contact the authors for each resource in order to obtain them. 
+I may help you with this task if you wish :)
+
+To run the evaluation, just run:
+
+$ python Experiments.py
+
+The output of the evaluation will be printed on the screen. There is no parameters. The file is just a simple python script.
+
+If you wish to re-use my libraries to read the lexicons or corpus, please fell free. They come with no warranties :)
